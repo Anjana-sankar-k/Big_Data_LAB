@@ -1,0 +1,6 @@
+beeline> !connect jdbc:hive2://127.0.0.1:10000/default;
+Connecting to jdbc:hive2://127.0.0.1:10000/default;
+Enter username for jdbc:hive2://127.0.0.1:10000/default: anjana
+Enter password for jdbc:hive2://127.0.0.1:10000/default: ********
+
+hadoop@anjana-Standard-PC-Q35-ICH9-2009:~$ hiveserver2
